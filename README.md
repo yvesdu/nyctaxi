@@ -1,1 +1,1 @@
-# A project on predicting nyc tax trip duration
+# A project on predicting nyc taxi trip duration
